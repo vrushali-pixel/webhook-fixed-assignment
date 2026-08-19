@@ -1,4 +1,8 @@
 # SOLUTION.md
+ Note on commit history: while working through git/PowerShell setup issues,
+ my fixes ended up squashed into a single commit rather than the
+ incremental history I intended. The commit below documents each change
+ individually for clarity. Happy to walk through the actual diffs live.
 
 ## What was broken, and why
 
